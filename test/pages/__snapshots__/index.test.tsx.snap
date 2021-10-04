@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-1276654382 container"
+  >
+    <main
+      class="jsx-1276654382"
+    >
+      <h1
+        class="jsx-1276654382 title"
+      >
+        This is a Next.js/TypeScript app with Test Cases
+      </h1>
+      <p
+        class="jsx-1276654382 description"
+      >
+        Check the 
+        <code
+          class="jsx-1276654382"
+        >
+          /pages
+        </code>
+      </p>
+      <button
+        class="jsx-1276654382"
+      >
+        Test Button
+      </button>
+      <div
+        class="jsx-1276654382 grid"
+      />
+    </main>
+    <footer
+      class="jsx-1276654382"
+    >
+      <a
+        class="jsx-1276654382"
+        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        rel="noopener noreferrer"
+        target="_blank"
+      />
+    </footer>
+  </div>
+</DocumentFragment>
+`;
