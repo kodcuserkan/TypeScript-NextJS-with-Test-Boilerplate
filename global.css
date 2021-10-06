@@ -1,0 +1,18 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.posts {
+  background-color: antiquewhite;
+}
+.posts > ul {
+  list-style: none;
+}
+.posts > ul > li {
+  padding: 0.5rem 0;
+}
+
+.posts > ul > li > a {
+  font-size: large;
+  color: blueviolet;
+}
