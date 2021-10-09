@@ -1,9 +1,11 @@
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  color: #6a4f4f;
 }
 
 .posts {
-  background-color: antiquewhite;
+  /* background-color: antiquewhite; */
 }
 .posts > ul {
   list-style: none;
